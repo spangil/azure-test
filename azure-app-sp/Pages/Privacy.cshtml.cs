@@ -14,7 +14,7 @@ namespace azure_app_sp.Pages
 
         public void OnGet()
         {
-            throw new Exception("Testing Insights");
+           
         }
     }
 }
